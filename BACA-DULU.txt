@@ -1,0 +1,15 @@
+DENNSLOT77 - CARA PASANG
+
+Isi folder ini (jangan dipisah, jangan ganti nama):
+  index.html      -> halaman utama
+  lagu-menu.mp3   -> musik login, daftar, dashboard
+  host.jpg        -> OPSIONAL. Foto untuk bagian Bonus Harian.
+                     Simpan dengan nama persis host.jpg di folder ini.
+
+Deploy:
+  1. Netlify Drop (app.netlify.com/drop): drag seluruh folder ini.
+  2. Cloudflare Pages / GitHub Pages: upload isi folder ini.
+  3. cPanel: upload semua file ke public_html.
+
+Catatan: akun dan saldo tersimpan di browser tiap pemain (localStorage).
+Semua game memakai koin virtual, bukan uang sungguhan.
